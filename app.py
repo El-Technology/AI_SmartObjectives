@@ -25,6 +25,7 @@ user_instruction = 'Kindly provide a brief description about your job or past yo
 
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
+#est
 
 #prompt = "The following is a conversation with an AI assistant. The assistant is helpful, creative, clever, and very friendly.\n\nHuman: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?\nHuman: "
 
